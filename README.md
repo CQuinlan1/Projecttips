@@ -37,3 +37,4 @@ Recap on findings and limitation of the variables suggestion of other variables 
 
 ## Include references :
 https://dicook.public.iastate.edu/stat503/05/cs-tips2.pdf
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
