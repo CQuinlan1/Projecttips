@@ -1,14 +1,14 @@
 
 # Projecttips Summary
 ## This is my assignment for Fundamentals of Data Analytics. Higher Dip in Data Analytics GMIT
-## By Celeste Quinlan.  Deadline 29th November 2019
+## By Catherine A Celeste Quinlan.  Deadline 29th November 2019
 
 ![Alt text](restaurant.jpg?raw=true "Optional Title")
 
 
 
 ## Description :
-_The project includes a review of the Dataset "Tips" found in the Python
+The project includes a review of the Dataset "Tips" found in the Python
 seaborn package, and graphs from variables I found that were relevantas well as an analysis between the variables .
 
 ## Tips dataset :
