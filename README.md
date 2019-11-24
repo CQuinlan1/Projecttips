@@ -3,6 +3,10 @@
 ## This is my assignment for Fundamentals of Data Analytics. Higher Dip in Data Analytics GMIT
 ## By Celeste Quinlan.  Deadline 29th November 2019
 
+![Alt text](restaurant.jpg?raw=true "Optional Title")
+
+
+
 ## Description :
 _The project includes a review of the Dataset "Tips" found in the Python
 seaborn package, and graphs from variables I found that were relevantas well as an analysis between the variables .
@@ -18,7 +22,7 @@ The Tips dataset is based around a particular food server and the tips the serve
 * TIME 0=day, 1=night
 * SIZE Size of the party
 
-The data collection was assigned to the days and times, tables and clients  that the particular server was assigned to work.The dataset is included in seaborn as a dataframe,and  it hs 244 rows and 7 variables. By analysing the dataset we get an insight into the factors that may influence the tip quantity.
+The data collection was assigned to the days and times, tables and clients  that the particular server was assigned to work.The dataset is included in seaborn as a dataframe, and  it has 244 rows and 7 variables. By analysing the dataset we get an insight into the factors that may influence the tip quantity.
 
 ## Plan Outline :
 * To syn my file with gitHub
