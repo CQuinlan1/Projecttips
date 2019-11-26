@@ -3,7 +3,7 @@
 ## This is my assignment for Fundamentals of Data Analytics. Higher Dip in Data Analytics GMIT
 ## By Catherine A Celeste Quinlan.  Deadline 29th November 2019
 
-![Alt text](restaurant.jpg?raw=true "Optional Title")
+![Alt text](restaurant.jpg=50x50)
 
 
 
