@@ -3,13 +3,13 @@
 ## This is my assignment for Fundamentals of Data Analytics. Higher Dip in Data Analytics GMIT
 ## By Catherine A Celeste Quinlan.  Deadline 29th November 2019
 
-![Alt text](restaurant.jpg=50x50)
+![Alt text](restaurant.jpg)
 
 
 
 ## Description :
 The project includes a review of the Dataset "Tips" found in the Python
-seaborn package, and graphs from variables I found that were relevantas well as an analysis between the variables .
+seaborn package, and graphs from variables I found that were relevant as well as an analysis between the variables .
 
 ## Tips dataset :
 The Tips dataset is based around a particular food server and the tips the server received over 2 and a half months.The data details collected are broken into:
@@ -28,7 +28,7 @@ The data collection was assigned to the days and times, tables and clients  that
 * To syn my file with gitHub
 * Set up my Jupyter file
 * Include the seaborn data package tips
-* Find max mins averages and any expected or unusual correlations( or misleading links )
+* Find max mins averages and any expected or unusual correlations ( or misleading links )
 * Especially total bill and tip amount
 * Display graphs and plots
 
