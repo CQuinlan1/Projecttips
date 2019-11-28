@@ -11,6 +11,7 @@
 The project includes a review of the Dataset "Tips" found in the Python
 seaborn package, and graphs from variables I found that were relevant as well as an analysis between the variables .
 
+
 ## Tips dataset :
 The Tips dataset is based around a particular food server and the tips the server received over 2 and a half months.The data details collected are broken into:
 
@@ -32,9 +33,12 @@ The data collection was assigned to the days and times, tables and clients  that
 * Especially total bill and tip amount
 * Display graphs and plots
 
+## My folder :
+My folder consists of various files, the data file in csv form, a restaurant image, and also  includes this markdown introduction to my assignment.
+The main file is my Tips dataset workings.ipynb. This file is run from the beginning, and in order.My approach My intention was for my work to be  easy to follow and simple to understand.My choice of variables to review was primarily searching for distinctions in diners, that is male/female smoker/non smoker, and then in days and table sizes.
 
 ## Review my findings (Regression and Analysis):
-Review other approaches and analysis and compare **total bill and tip amount** (and others) using descriptive statistics and plots.
+Review other approaches and analysis and compare **total bill and tip amount** (and others) using descriptive statistics and plots.My attempt has been to find the details of a line of best fit using polyfit for total bill to tip and percentage tip.I also attempted a form of using elicited total bill figures to offer a way of predicting tips and tip percentage.
 
 ## Conclusion :
 Recap on findings and limitation of the variables suggestion of other variables that may give a more reliable picture. Discuss also relevance of certain variables 
